@@ -1,0 +1,13 @@
+.nav-bar-header {
+    height: 50px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    background: linear-gradient(-90deg, #84CF6A, #16C0B0);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
