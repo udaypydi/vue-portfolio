@@ -10,6 +10,7 @@ Vue.component('Header', {
     `
 });
 
+// vue app
 const app = new Vue({
     el: '#app',
     data: {
